@@ -11,8 +11,8 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/austo/challenge/model"
-	"github.com/austo/challenge/worker"
+	"github.com/austo/maw/model"
+	"github.com/austo/maw/worker"
 )
 
 /* What if you made this a complete piece of software?
